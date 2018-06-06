@@ -6,3 +6,11 @@ C:\Users\Tomas\Desktop\Mokslai\2018 pavasaris\Intelektikos pagrindai\grupinis\Cr
 C:\Users\Tomas\Desktop\Mokslai\2018 pavasaris\Intelektikos pagrindai\grupinis\CraneController\CraneController\bin\Debug\WindowsApplication3.pdb
 C:\Users\Tomas\Desktop\Mokslai\2018 pavasaris\Intelektikos pagrindai\grupinis\CraneController\CraneController\obj\Debug\WindowsApplication3.exe
 C:\Users\Tomas\Desktop\Mokslai\2018 pavasaris\Intelektikos pagrindai\grupinis\CraneController\CraneController\obj\Debug\WindowsApplication3.pdb
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\obj\Debug\WindowsApplication3.exe
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\obj\Debug\WindowsApplication3.pdb
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\bin\Debug\WindowsApplication3.exe
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\bin\Debug\WindowsApplication3.pdb
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\obj\Debug\WindowsApplication3.csprojResolveAssemblyReference.cache
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\obj\Debug\WindowsApplication3.Form1.resources
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+C:\ktu\intelektika\FuzzyCSharp\CraneController\CraneController\bin\Debug\WindowsApplication3.exe.config
